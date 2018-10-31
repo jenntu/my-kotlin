@@ -1,0 +1,8 @@
+
+
+.DS_Store
+.idea/
+*.tiff
+README.md
+my-kotlin.iml
+target/
